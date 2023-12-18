@@ -30,7 +30,7 @@ builder.Logging.AddConsole();
 
 
 var app = builder.Build();
-
+//Dependency Injection olarak aldığınız instance'a aşağıdaki gibi erişebilirsiniz:
 IProductService service = app.Services.GetRequiredService<IProductService>();
 app.Logger.LogInformation($"servis içinde {service.GetProductNames().Count} eleman var: ${string.Join(",", service.GetProductNames().ToArray())}");
 
