@@ -31,3 +31,12 @@ C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\bas
 C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\basicDifferences\basicDifferences\obj\Debug\net6.0\ref\basicDifferences.dll
 C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\basicDifferences\basicDifferences\bin\Debug\net6.0\appsettings.Production.json
 C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\basicDifferences\basicDifferences\bin\Debug\net6.0\appsettings.Stage.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\basicDifferences\basicDifferences\bin\Debug\net6.0\libman.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\basicDifferences\basicDifferences\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\basicDifferences\basicDifferences\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\basicDifferences\basicDifferences\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\basicDifferences\basicDifferences\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\basicDifferences\basicDifferences\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\basicDifferences\basicDifferences\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\basicDifferences\basicDifferences\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\basicDifferences\basicDifferences\obj\Debug\net6.0\basicDifferences.csproj.CopyComplete

@@ -4,6 +4,6 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ActiveDebugProfile>basicDifferences_Production</ActiveDebugProfile>
+    <ActiveDebugProfile>basicDifferences</ActiveDebugProfile>
   </PropertyGroup>
 </Project>
