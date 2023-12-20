@@ -48,5 +48,13 @@ Console.WriteLine("==== Artık Default value girebiliyoruz =======");
 var firstItemOnDefault = collection.FirstOrDefault(x => x > 10, -1);
 Console.WriteLine(firstItemOnDefault);
 
+PriorityQueue<int, string> priorityQueue = new PriorityQueue<int, string>();
+Queue<string> queue = new Queue<string>();
+
+Queue<KeyValuePair<int, string>> keyValuePairs = new Queue<KeyValuePair<int, string>>();
+keyValuePairs.Enqueue(new KeyValuePair<int, string>(1, "Test"));
+
+DateOnly date = new DateOnly(DateTime.Today.Year, DateTime.Today.Month, DateTime.Today.Day);
+var date2 = new DateOnly();
 
 
