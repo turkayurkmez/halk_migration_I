@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\bin\Debug\net6.0\NewInCSharp.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\bin\Debug\net6.0\NewInCSharp.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\bin\Debug\net6.0\NewInCSharp.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\bin\Debug\net6.0\NewInCSharp.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\bin\Debug\net6.0\NewInCSharp.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\obj\Debug\net6.0\NewInCSharp.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\obj\Debug\net6.0\NewInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\obj\Debug\net6.0\NewInCSharp.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\obj\Debug\net6.0\NewInCSharp.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\obj\Debug\net6.0\NewInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\obj\Debug\net6.0\NewInCSharp.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\obj\Debug\net6.0\refint\NewInCSharp.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\obj\Debug\net6.0\NewInCSharp.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\obj\Debug\net6.0\NewInCSharp.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\NewInCSharp\NewInCSharp\obj\Debug\net6.0\ref\NewInCSharp.dll

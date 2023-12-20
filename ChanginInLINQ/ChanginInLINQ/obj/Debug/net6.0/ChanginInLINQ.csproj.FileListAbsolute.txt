@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\bin\Debug\net6.0\ChanginInLINQ.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\bin\Debug\net6.0\ChanginInLINQ.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\bin\Debug\net6.0\ChanginInLINQ.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\bin\Debug\net6.0\ChanginInLINQ.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\bin\Debug\net6.0\ChanginInLINQ.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\obj\Debug\net6.0\ChanginInLINQ.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\obj\Debug\net6.0\ChanginInLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\obj\Debug\net6.0\ChanginInLINQ.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\obj\Debug\net6.0\ChanginInLINQ.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\obj\Debug\net6.0\ChanginInLINQ.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\obj\Debug\net6.0\ChanginInLINQ.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\obj\Debug\net6.0\refint\ChanginInLINQ.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\obj\Debug\net6.0\ChanginInLINQ.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\obj\Debug\net6.0\ChanginInLINQ.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\ChanginInLINQ\ChanginInLINQ\obj\Debug\net6.0\ref\ChanginInLINQ.dll
