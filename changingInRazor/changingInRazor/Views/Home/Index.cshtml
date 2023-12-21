@@ -1,4 +1,7 @@
-﻿@{
+﻿@model IndexViewModel
+
+@addTagHelper changingInRazor.TagBuilders.*, changingInRazor
+@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -6,3 +9,27 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+<div>
+    <div class="row">
+        @foreach (var product in Model.Products)
+        {
+            <div class="col-3">
+                <partial name="_ProductCard" model="product" />
+            </div>
+        }
+    </div>
+</div>
+
+<nav aria-label="Page navigation example">
+    <ul class="pagination">
+
+        @for (int i = 1; i <= Model.PageModel.TotalPages; i++)
+        {
+            <li class="page-item"><a class="page-link" href="#">@i</a></li>
+        }
+
+
+    </ul>
+</nav>
+
+<div page-model="@Model.PageModel" page-action="Index"></div>
