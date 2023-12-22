@@ -13,3 +13,5 @@ C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\esh
 C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\eshop.Application\obj\Debug\net7.0\refint\eshop.Application.dll
 C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\eshop.Application\obj\Debug\net7.0\eshop.Application.pdb
 C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\eshop.Application\obj\Debug\net7.0\ref\eshop.Application.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\eshop.Application\bin\Debug\net7.0\shop.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\eshop.Application\bin\Debug\net7.0\shop.Infrastructure.pdb

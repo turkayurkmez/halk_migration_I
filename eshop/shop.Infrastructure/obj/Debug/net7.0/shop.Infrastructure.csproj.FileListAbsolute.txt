@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\bin\Debug\net7.0\shop.Infrastructure.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\bin\Debug\net7.0\shop.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\bin\Debug\net7.0\shop.Infrastructure.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\bin\Debug\net7.0\eshop.Domains.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\bin\Debug\net7.0\eshop.Domains.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\obj\Debug\net7.0\shop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\obj\Debug\net7.0\shop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\obj\Debug\net7.0\shop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\obj\Debug\net7.0\shop.Infrastructure.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\obj\Debug\net7.0\shop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\obj\Debug\net7.0\shop.Infrastructure.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\obj\Debug\net7.0\shop.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\obj\Debug\net7.0\refint\shop.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\obj\Debug\net7.0\shop.Infrastructure.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\MigrateFromTwoVersions\Group 1\eshop\shop.Infrastructure\obj\Debug\net7.0\ref\shop.Infrastructure.dll

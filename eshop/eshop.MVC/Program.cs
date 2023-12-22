@@ -1,12 +1,19 @@
 using eshop.Application;
+using Microsoft.EntityFrameworkCore;
+using shop.Infrastructure.Data;
+using shop.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddScoped<IProductService, FakeProductService>();
+builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICategoryService, FakeCategoryService>();
+builder.Services.AddScoped<IProductRepository, EFProductRepository>();
 
+
+var connectionString = builder.Configuration.GetConnectionString("db");
+builder.Services.AddDbContext<EshopDbContext>(options => options.UseSqlServer(connectionString));
 
 var app = builder.Build();
 // Configure the HTTP request pipeline.

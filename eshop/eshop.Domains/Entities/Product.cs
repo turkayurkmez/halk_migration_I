@@ -16,5 +16,9 @@ namespace eshop.Domains.Entities
 
         public DateTime CreatedDste { get; set; }
         public DateTime UpdatedDste { get; set; }
+
+        public Category Category { get; set; }
+        public int CategoryId { get; set; }
+
     }
 }
